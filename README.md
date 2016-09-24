@@ -1,2 +1,2 @@
-# CPlusPlusSMFLGames
+# CPlusPlusSfmlGames
 Learn Games
